@@ -5,7 +5,7 @@ Introdução ao Git e ao GitHub
 * Git bash é um terminal extendido para otmizar o uso do git por meio de linha de comando.
 
 ## Links úteis
-(Download Git)[https://git-scm.com/downloads]
+[Download Git](https://git-scm.com/downloads)
 
 ## Comando úteis para git
 
